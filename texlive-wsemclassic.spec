@@ -6,7 +6,7 @@
 # catalog-version 1.0.1
 Name:		texlive-wsemclassic
 Version:	1.0.1
-Release:	3
+Release:	4
 Summary:	LaTeX class for Bavarian school w-seminar papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wsemclassic
