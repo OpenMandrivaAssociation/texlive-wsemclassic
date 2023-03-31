@@ -1,6 +1,6 @@
 Name:		texlive-wsemclassic
 Version:	31532
-Release:	1
+Release:	2
 Summary:	LaTeX class for Bavarian school w-seminar papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wsemclassic
