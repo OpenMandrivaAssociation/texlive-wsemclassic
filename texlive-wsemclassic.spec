@@ -3,7 +3,7 @@ Version:	31532
 Release:	2
 Summary:	LaTeX class for Bavarian school w-seminar papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wsemclassic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wsemclassic
 License:	BSD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wsemclassic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wsemclassic.doc.r%{version}.tar.xz
